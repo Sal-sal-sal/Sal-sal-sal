@@ -1,3 +1,7 @@
+IMPORTENT !!!
+ каждый свой проект я хранб на google drive вот он
+https://drive.google.com/drive/folders/1zK45GKIEyxMVkdnnIatnvJpVzfV2kVaQ?usp=sharing
+а  github почти не пользоюсь (только для поиска и скачавания всякил tools )
 - 👋 Hi, I’m @Sal-sal-sal
 - 👀 I’m interested in math, NLP, neuroscience 
 - 🌱 I’m currently learning NLP,neuroscience
