@@ -3,8 +3,8 @@ IMPORTENT !!!
 https://drive.google.com/drive/folders/1zK45GKIEyxMVkdnnIatnvJpVzfV2kVaQ?usp=sharing
 а  github почти не пользоюсь (только для поиска и скачавания всякил tools )
 - 👋 Hi, I’m @Sal-sal-sal
-- 👀 I’m interested in math, NLP, neuroscience 
-- 🌱 I’m currently learning NLP,neuroscience
+- 👀 I’m interested in math, NLP and neuroscience 
+- 🌱 I’m currently learning NLP  and neuroscience
 - 💞️ I’m looking to collaborate on n!
 - 📫 How to reach me insta https://www.instagram.com/mikail_nadirov/
 - 😄 Fun fact I am working on a 'sleep' mechanism for neural networks
