@@ -1,4 +1,4 @@
-IMPORTENT !!!
+IMPORTANT !!!
  каждый свой проект я храню на google drive вот он
 https://drive.google.com/drive/folders/1zK45GKIEyxMVkdnnIatnvJpVzfV2kVaQ?usp=sharing
 а  github почти не пользоюсь (только для поиска и скачавания всякил tools )
