@@ -1,7 +1,7 @@
 IMPORTANT !!!
  a lot of my old projects are here
 https://drive.google.com/drive/folders/1zK45GKIEyxMVkdnnIatnvJpVzfV2kVaQ?usp=sharing
-а  github почти не пользоюсь (только для поиска и скачавания всякил tools )
+
 - 👋 Hi, my name is Saladin 18 yo i'm from kazakhstan 
 - 👀 I’m interested in math, NLP and neuroscience 
 - 🌱 I’m currently learning NLP  and neuroscience
